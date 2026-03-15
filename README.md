@@ -4,10 +4,10 @@
 This project involves the development of a predictive machine learning model to determine credit card approval outcomes. By comprehensively analyzing applicant demographic data, employment history, and financial records, the project aims to uncover key factors that influence credit risk. The end goal is to provide a robust classification framework that can accurately predict whether a prospective applicant will be approved or rejected.
 
 ## Team Members
-* Mridul Jain (20250784)
-* Arunachalaeswar Chandran (20250179)
-* Kezia Wibowo (20240232)
-* Emiliano Gallardo Manrique (20250385)
+* [Mridul Jain](https://github.com/MridulJain1101) (20250784)
+* [Arunachalaeswar Chandran](https://github.com/arunnn9088) (20250179)
+* [Kezia Wibowo](https://github.com/kezia-ch) (20240232)
+* [Emiliano Gallardo Manrique](https://github.com/EmilianoGallardoM) (20250385)
 
 ## About the Dataset
 The data utilized for this project is the [Credit Card Approval Prediction dataset](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction) sourced from Kaggle. 
