@@ -45,5 +45,4 @@ The analysis revealed that transforming raw temporal data into structured featur
 * **Data Visualization:** Matplotlib, Seaborn
 * **Machine Learning & Modeling:** Scikit-Learn (Logistic Regression, Random Forest)
 * **Environment:** Google Colab
-* **Machine Learning & Modeling:** Scikit-Learn (Logistic Regression, Random Forest)
-* **Environment:** Jupyter Notebook
+
